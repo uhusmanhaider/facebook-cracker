@@ -16,9 +16,9 @@
    
 ### cd facebook-cracker
 
-### chmod +x facebook.py
+### chmod +x * facebook.py
 
-### python facebook.py
+### python2 facebook.py
 
 ### ScreenShot 
 
